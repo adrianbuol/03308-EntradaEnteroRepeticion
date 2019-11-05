@@ -24,10 +24,8 @@ import java.util.Scanner;
  */
 public class Main {
 
-    public static final Locale LCL = new Locale("es", "ES");
     public static final Scanner SCN
-            = new Scanner(System.in, "Windows-1252")
-                    .useLocale(LCL);
+            = new Scanner(System.in, "Windows-1252");
 
     public static void main(String[] args) {
 //          Variable
