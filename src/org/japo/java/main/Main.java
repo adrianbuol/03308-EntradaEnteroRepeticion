@@ -15,7 +15,6 @@
  */
 package org.japo.java.main;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 /**
