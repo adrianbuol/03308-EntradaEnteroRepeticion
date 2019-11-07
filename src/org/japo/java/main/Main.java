@@ -44,5 +44,6 @@ public class Main {
                 SCN.nextLine();
             }
         } while (!procesoOK);
+        System.out.println("END");
     }
 }
